@@ -1,0 +1,25 @@
+body {
+    font-size: 15pt;
+    background: #000;
+    color: #00F3FF;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+  font-size: 60px;
+}
+
+h3{
+  font-size: 40px;
+}
+
+h1 ,h3,h4{
+  text-align: center;
+  font-weight: 900;
+  text-shadow: 2px 2px 30px #00F3FF ;
+}
